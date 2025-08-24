@@ -6,9 +6,9 @@
 ```
 Assets/
 ├─ Project/
-   └─ Scripts/
-   └─ Scenes/
-   └─ Prefabs/
+   ├─ Scripts/ # 모든 스크립트 파일
+   ├─ Scenes/  # 게임 씬 파일
+   └─ Prefabs/ # 프리팹
 ```
 
 ## 스크립트 구성
