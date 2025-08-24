@@ -6,9 +6,9 @@
 ```
 Assets/
 ├─ Project/
-│  └─ Scripts/
-├─ Scenes/
-└─ Prefabs/
+   └─ Scripts/
+   └─ Scenes/
+   └─ Prefabs/
 ```
 
 ## 스크립트 구성
